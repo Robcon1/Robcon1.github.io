@@ -13,7 +13,7 @@
   <body>
   
     <div class="row">
-      <div class="column-sm-6"> test </div>
+      <div class="column-sm-6"> <span>test </span> </div>
     </div>
   
   
